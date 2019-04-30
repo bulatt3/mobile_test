@@ -1,0 +1,11 @@
+{
+    "name": "aamobile",
+    "description": "QuezAppSample",
+    "version": "0.0.1",
+    "private": false,
+    "license": "MIT",
+    "author": "Olga Bulat",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
