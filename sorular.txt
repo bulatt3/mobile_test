@@ -1,0 +1,24 @@
+Soru 1 metni
+cevap 11
+cevap 12
+cevap 13
+
+Soru 2 metni
+cevap 21
+cevap 22
+cevap 23
+
+Soru 3 metni
+cevap 31
+cevap 32
+cevap 33
+
+Soru 4 metni
+cevap 41
+cevap 42
+cevap 43
+
+Soru 5 metni
+cevap 51
+cevap 52
+cevap 53

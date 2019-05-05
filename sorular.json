@@ -1,0 +1,49 @@
+{
+    "questions": [
+        {
+            "text": "Soru 1 metni",
+            "answers": [
+                "cevap 11",
+                "cevap 12",
+                "cevap 13"
+            ],
+            "id": 1
+        },
+        {
+            "text": "Soru 2 metni",
+            "answers": [
+                "cevap 21",
+                "cevap 22",
+                "cevap 23"
+            ],
+            "id": 2
+        },
+        {
+            "text": "Soru 3 metni",
+            "answers": [
+                "cevap 31",
+                "cevap 32",
+                "cevap 33"
+            ],
+            "id": 3
+        },
+        {
+            "text": "Soru 4 metni",
+            "answers": [
+                "cevap 41",
+                "cevap 42",
+                "cevap 43"
+            ],
+            "id": 4
+        },
+        {
+            "text": "Soru 5 metni",
+            "answers": [
+                "cevap 51",
+                "cevap 52",
+                "cevap 53"
+            ],
+            "id": 5
+        }
+    ]
+}
