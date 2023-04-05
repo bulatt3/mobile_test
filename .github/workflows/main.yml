@@ -20,8 +20,8 @@ jobs:
           label-operator: NOT        
           label-map: |
             { "Priority": [ 
-              { "label": "🟥 priority: critical", "fieldValue": "🟥 priority: critical"] },
-              { "label": "🟧 priority: high", "fieldValue": "🟧 priority: high"] },
-              { "label": "🟨 priority: medium", "fieldValue": "🟨 priority: medium"] },
-              { "label": "🟩 priority: low", "fieldValue": "🟩 priority: low"] }
+              { "label": "🟥 priority: critical", "fieldValue": "🟥 priority: critical" },
+              { "label": "🟧 priority: high", "fieldValue": "🟧 priority: high" },
+              { "label": "🟨 priority: medium", "fieldValue": "🟨 priority: medium" },
+              { "label": "🟩 priority: low", "fieldValue": "🟩 priority: low" }
             ]}
