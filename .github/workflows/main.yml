@@ -1,0 +1,21 @@
+name: Adds all issues that don't include the 'project' label to project board and set correct priority
+
+on:
+  issues:
+    types:
+      - opened
+      - labeled
+      - commented
+
+jobs:
+  add-to-project:
+    name: Add issue to project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@RELEASE_VERSION
+        with:
+          project-url: https://github.com/orgs/bulatt3/projects/1
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          labeled: project
+          label-operator: NOT        
+          labels-map: ./.github/labels-map.yml
