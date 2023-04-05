@@ -19,13 +19,13 @@ jobs:
           labeled: project
           label-operator: NOT        
           label-map: |
-          customField: Priority
-          values:
-            - label: "\U0001F7E5 priority: critical"
-              fieldValue: "\U0001F7E5 priority: critical"
-            - label: "\U0001F7E7 priority: high"
-              fieldValue: "\U0001F7E7 priority: high"
-            - label: "\U0001F7E8 priority: medium"
-              fieldValue: "\U0001F7E8 priority: medium"
-            - label: "\U0001F7E9 priority: low"
-              fieldValue: "\U0001F7E9 priority: low"
+            customField: Priority
+            values:
+              - label: "\U0001F7E5 priority: critical"
+                fieldValue: "\U0001F7E5 priority: critical"
+              - label: "\U0001F7E7 priority: high"
+                fieldValue: "\U0001F7E7 priority: high"
+              - label: "\U0001F7E8 priority: medium"
+                fieldValue: "\U0001F7E8 priority: medium"
+              - label: "\U0001F7E9 priority: low"
+                fieldValue: "\U0001F7E9 priority: low"
