@@ -18,4 +18,4 @@ jobs:
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
           labeled: project
           label-operator: NOT        
-          labels-map: ./.github/labels-map.yml
+          label-map: ./.github/labels-map.yml
