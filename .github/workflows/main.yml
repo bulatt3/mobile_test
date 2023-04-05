@@ -19,7 +19,7 @@ jobs:
           labeled: project
           label-operator: NOT        
           label-map: |
-            { "customField": "Priority", "values": [ 
+            { "Priority": [ 
               { "label": "\U0001F7E5 priority: critical", "fieldValue": "\U0001F7E5 priority: critical"] },
               { "label": "\U0001F7E7 priority: high", "fieldValue": "\U0001F7E7 priority: high"] },
               { "label": "\U0001F7E8 priority: medium", "fieldValue": "\U0001F7E8 priority: medium"] },
